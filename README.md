@@ -53,7 +53,7 @@ Python · python-telegram-bot / pyTelegramBotAPI · SQLite · GitHub Actions · 
 ## 🤝 Contact / Контакты
 🌐 [katproject.ru](https://katproject.ru)  
 💬 Telegram: [@pepstrik](https://t.me/pepstrik)  
-✉️ hello@katproject.ru  
+✉️ me@eglukhova.ru  
 
 ---
 
