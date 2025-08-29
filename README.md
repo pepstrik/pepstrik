@@ -3,8 +3,13 @@
 **Product / Project Manager · International Partnerships · Customer Success**  
 **Продакт/проект-менеджер · Международные партнёрства · Customer Success**  
 
-🌍 Moscow · Remote/Hybrid · EN C1 · KR A2  
-🌍 Москва · Remote/Hybrid · Английский C1 · Корейский A2  
+🌍 Moscow · Remote/Hybrid  
+🌍 Москва · Удалёнка/Гибрид 
+
+🗣️ Languages / Языки:  
+- **Russian – Native / Родной**  
+- **English – C1 (Advanced)**  
+- **Korean – A2 (Elementary)**  
 
 ---
 
@@ -44,15 +49,6 @@ Python · python-telegram-bot / pyTelegramBotAPI · SQLite · GitHub Actions · 
 - **T**: Improve discovery → Улучшить поиск  
 - **A**: Added /search, random, cache → Команды /search, random, кэш  
 - **R**: +25% engagement → +25% вовлечённости  
-
-**3) PodcastCourseBot — EdTech MVP**  
-**3) PodcastCourseBot — EdTech-MVP**  
-- **S**: Need mini-course w/o LMS → Мини-курс без LMS  
-- **T**: Launch structured flow → Запустить структуру  
-- **A**: PTB flow + quiz + PDF → Поток в PTB + тест + PDF  
-- **R**: 30+ completions → 30+ выпускников  
-
----
 
 ## 🤝 Contact / Контакты
 🌐 [katproject.ru](https://katproject.ru)  
